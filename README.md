@@ -90,9 +90,8 @@ flutter run      # escolha o dispositivo (Android, iOS, Chrome/Edge, Windows...)
 
 ## Equipe
 
-- *[Nome do(a) integrante 1]*
-- *[Nome do(a) integrante 2]*
-- *[Nome do(a) integrante 3]*
+- Eduardo Jhonathan Passos Neumann
+- Iago Rech Tramontin
 
 ---
 
