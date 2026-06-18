@@ -32,7 +32,7 @@ AEO_Mobile/
 ├── chatgpt/    # Implementação gerada pelo GPT-5.5
 ├── claude/     # Implementação gerada pelo Claude Opus 4.8
 ├── gemini/     # Implementação gerada pelo Gemini Pro 3.1
-└── README.md   # Este arquivo
+└── README.md   
 ```
 
 Cada subpasta é um projeto Flutter completo e independente, com seu próprio `README.md`, `lib/main.dart` e a captura de tela do resultado em `screenshot/print.png`.
